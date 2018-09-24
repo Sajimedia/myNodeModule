@@ -1,0 +1,19 @@
+{
+  "name": "nodemoduling",
+  "version": "1.0.0",
+  "description": "creating custom moduling system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sajimedia/myNodeModule.git"
+  },
+  "author": "sajith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sajimedia/myNodeModule/issues"
+  },
+  "homepage": "https://github.com/Sajimedia/myNodeModule#readme"
+}
