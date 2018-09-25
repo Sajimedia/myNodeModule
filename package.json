@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Sajimedia/myNodeModule/issues"
   },
-  "homepage": "https://github.com/Sajimedia/myNodeModule#readme"
+  "homepage": "https://github.com/Sajimedia/myNodeModule#readme",
+  "dependencies": {
+    "nodemon": "^1.18.4"
+  }
 }
